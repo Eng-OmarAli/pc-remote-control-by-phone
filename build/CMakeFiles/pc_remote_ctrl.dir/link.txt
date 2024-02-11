@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/pc_remote_ctrl.dir/src/main.cpp.o CMakeFiles/pc_remote_ctrl.dir/include/Server/server.cpp.o -o pc_remote_ctrl   -L"/home/omar/workspace/Projects/pc remote control/include" 

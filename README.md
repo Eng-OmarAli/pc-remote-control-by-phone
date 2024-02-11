@@ -1,1 +1,3 @@
 # pc-remote-control-by-phone
+
+by using C++ socket programming and TCP/IP client phone application, I created a new way to interact with PC remotely. what makes this project different is the ability of the PC to communicate simultaneously with more than one phone by creating a child process to handle each client. As demonstrated in the clip, The PC (server) was able to connect with 2 different phones (clients) and take commands then carry out them. commands can vary from adjusting sound volume to open various linux applications.

@@ -1,0 +1,3 @@
+/home/omar/workspace/Projects/pc remote control/build/CMakeFiles/pc_remote_ctrl.dir
+/home/omar/workspace/Projects/pc remote control/build/CMakeFiles/edit_cache.dir
+/home/omar/workspace/Projects/pc remote control/build/CMakeFiles/rebuild_cache.dir
